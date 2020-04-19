@@ -1,0 +1,1 @@
+export const API_URL = 'https://my-json-server.typicode.com/lequangphi0611/JsonAPI/subjects';
